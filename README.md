@@ -2,9 +2,10 @@
 
 
 Este hangout foi apresentado por André Baltieri e Nicolas Takashi em 16/06/2016
+
+
 * Assista o vídeo em
  * https://www.youtube.com/watch?v=bJZ-RfTqIWk
-
 * Inscreva-se para o programa Beta
  * http://lab1024.com.br/
 * Curta nossa página do Facebook
