@@ -1,0 +1,11 @@
+<div *ngIf="car">
+    <div class="form-group">
+        <label>Marca: </label>
+        <input type="text" class="form-control" readonly [(ngModel)]="car.Brand.Name" placeholder="Marca do veículo" />
+    </div>
+    <div class="form-group">
+        <label>Modelo: </label>
+        <input type="text" class="form-control" [(ngModel)]="car.Name" placeholder="Modelo do veículo" />
+    </div>
+    <input type="button" class="btn btn-primary" value="Salvar" (click)="update()">
+</div>
